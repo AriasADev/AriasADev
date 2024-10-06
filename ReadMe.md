@@ -48,7 +48,6 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love making content and sharing the fun<br/><br/>
- 📧 &emsp; Reach me anytime: <a href="mailto:ariaadelheid@protonmail.com">ariaadelheid@protonmail.com</a> <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/AriasADev/AriasADev/issues)
 
 </p>
