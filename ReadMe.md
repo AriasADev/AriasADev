@@ -1,3 +1,43 @@
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I'm
+                <b><a target="_blank" href="https://twitter.com/AriasACutie">Aria</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Learning Full Stack Developer from <b>England</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+
+<!-- About Section -->
+ # About me
+
+<p>
+ <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMwbGxiYW9rOXM5eHZyejFkZnlvdmZpOWoyaGlwaDc3MG1vajMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64pRj2UItv4pDgP3a5/giphy.gif" alt="Coding gif" />
+
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love making content and sharing the fun<br/><br/>
+ 📧 &emsp; Reach me anytime: <a href="mailto:ariaadelheid@protonmail.com">ariaadelheid@protonmail.com</a> <br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/AriasADev/AriasADev/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AriaBlah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AriasACutie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AriasACutie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriaFNaF) 
