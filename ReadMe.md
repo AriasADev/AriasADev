@@ -22,7 +22,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AriaBlah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AriasACutie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriaFNaF) [![Bluesky](https://img.shields.io/badge/Bluesky%20-%20Ariacodes?style=flat&logo=bluesky&color=blue&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fariacodes.com&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fariacodes.com)](https://bsky.app/profile/ariacodes.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AriaBlah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AriasACutie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriEnby) [![Bluesky](https://img.shields.io/badge/Bluesky%20-%20Ariacodes?style=flat&logo=bluesky&color=blue&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fariacodes.com&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fariacodes.com)](https://bsky.app/profile/ariacodes.com)
 
 
 
