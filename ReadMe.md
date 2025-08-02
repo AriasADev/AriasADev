@@ -17,12 +17,18 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on my personal website.<br>👯 I’m looking to collaborate on anything to improve my skills.<br>🌱 I’m currently learning Python & JavaScript.</br>📧 Reach me anytime: <a href="mailto:hello@ariacodes.com">hello@ariacodes.com</a><br>💬 Ask me about anything [here](https://github.com/AriasADev/AriasADev/issues)
+🔭 I’m currently working on my personal website.<br>👯 I’m looking to collaborate on anything to improve my skills.<br>🌱 I’m currently learning cybersecurity and OSINT.</br>📧 Reach me anytime: <a href="mailto:hello@ariacodes.com">hello@ariacodes.com</a><br>💬 Ask me about anything [here](https://github.com/AriasADev/AriasADev/issues)
 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AriaBlah) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AriasACutie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriEnby) [![Bluesky](https://img.shields.io/badge/Bluesky%20-%20Ariacodes?style=flat&logo=bluesky&color=blue&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fariacodes.com&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fariacodes.com)](https://bsky.app/profile/ariacodes.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AriaBlah) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AriasACutie) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriEnby) 
+[![Mastodon](https://img.shields.io/badge/Mastodon-%230081C1.svg?logo=mastodon&logoColor=white)](https://infosec.exchange/@Aria)
+
+
+
 
 
 
