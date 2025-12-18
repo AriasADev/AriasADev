@@ -26,7 +26,9 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AriasACutie) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AriEnby) 
 [![Mastodon](https://img.shields.io/badge/Mastodon-%230081C1.svg?logo=mastodon&logoColor=white)](https://infosec.exchange/@Aria)
-
+<br>
+<br>
+[![transbian's Discord status](https://discord.butterfly-network.win/api/user/652597508027187240?theme=dark&width=512)](https://github.com/TetraTsunami/discord-github-preview)
 
 
 
