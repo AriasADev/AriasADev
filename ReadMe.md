@@ -28,7 +28,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-%230081C1.svg?logo=mastodon&logoColor=white)](https://infosec.exchange/@Aria)
 <br>
 <br>
-[![transbian's Discord status](https://discord.doughmination.win/api/user/652597508027187240?theme=nitroDark&primaryColor=826bc2&accentColor=b7a7f1&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+<!-- [![transbian's Discord status](https://discord.doughmination.win/api/user/652597508027187240?theme=nitroDark&primaryColor=826bc2&accentColor=b7a7f1&width=512)](https://github.com/TetraTsunami/discord-github-preview) -->
 
 
 
