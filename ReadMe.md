@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on my personal website.<br>👯 I’m looking to collaborate on anything to improve my skills.<br>🌱 I’m currently learning cybersecurity and OSINT.</br>📧 Reach me anytime: <a href="mailto:contact@ariarees.dev">contact@ariarees.dev</a><br>💬 Ask me about anything [here](https://github.com/ariarees/ariarees/issues)
+🔭 I’m currently working on my personal website.<br>👯 I’m looking to collaborate on anything to improve my skills.<br>🌱 I’m currently learning cybersecurity and OSINT.</br>📧 Reach me anytime: <a href="mailto:iam@ariare.es">iam@ariare.es</a><br>💬 Ask me about anything [here](https://github.com/ariarees/ariarees/issues)
 
 
 
